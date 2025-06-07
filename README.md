@@ -1,5 +1,19 @@
 # Physics-Informed Neural Network with Symbolic Regression for Deriving Analytical Approximate Solutions to Nonlinear Partial Differential Equations
 
+
+**Authors**  
+Joy Das<sup>1</sup>, Bivas Bhaumik<sup>2</sup>, Soumen De<sup>1</sup>, Satyasaran Changdar<sup>3*</sup>  
+<sup>1</sup>Department of Applied Mathematics, University of Calcutta, 92, A.P.C. Road, Kolkata-700009, India  
+<sup>2</sup>Department of Mathematics, National Institute of Technology, Rourkela, Odisha, India  
+<sup>3</sup>Department of Food Science, University of Copenhagen, Copenhagen, Denmark  
+
+---
+
+## 📚 About the Project
+
+This repository hosts the **code and data** associated with the research study  
+**"Physics-Informed Neural Network with Symbolic Regression for Deriving Analytical Approximate Solutions to Nonlinear Partial Differential Equations"**,  
+**submitted to Neural Computing and Applications (Under Revision)**, authored by **Joy Das, Bivas Bhaumik, Soumen De, and Satyasaran Changdar\***.
 This work explores an interpretable approach based on **Physics-Informed Neural Networks (PINNs)** combined with **Symbolic Regression (SR)** to derive mathematical expressions for approximate solutions to nonlinear partial differential equations (PDEs) modeling arterial blood flow influenced by external magnetic fields.
 
 While PINNs are adept at learning physics-informed representations, they often lack interpretability and require significant computational resources. To address this, we integrate the **PySR symbolic regression framework** with PINNs. PySR utilizes **evolutionary genetic programming** with a customizable set of mathematical operators (trigonometric, exponential, arithmetic, etc.) to extract concise symbolic expressions from PINN-generated data.
