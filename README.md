@@ -1,12 +1,6 @@
 # Physics-Informed Neural Network with Symbolic Regression for Deriving Analytical Approximate Solutions to Nonlinear Partial Differential Equations
 
 
-**Authors**  
-Joy Das<sup>1</sup>, Bivas Bhaumik<sup>2</sup>, Soumen De<sup>1</sup>, Satyasaran Changdar<sup>3*</sup>  
-<sup>1</sup>Department of Applied Mathematics, University of Calcutta, 92, A.P.C. Road, Kolkata-700009, India  
-<sup>2</sup>Department of Mathematics, National Institute of Technology, Rourkela, Odisha, India  
-<sup>3</sup>Department of Food Science, University of Copenhagen, Copenhagen, Denmark  
-
 ---
 
 ## 📚 About the Project
