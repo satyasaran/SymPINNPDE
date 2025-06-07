@@ -37,5 +37,23 @@ While PINNs are adept at learning physics-informed representations, they often l
 
 ---
 
+## ⚙️ Installation
+
+To set up the project locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/satyasaran/SymPINNPDE.git
+
+# Navigate to the project directory
+cd SymPINNPDE
+
+# (Optional but recommended) Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+# Install the required dependencies
+pip install -r requirements.txt
+---
 ## 🏷️ Keywords
 Physics-Informed Neural Networks, Symbolic Regression, Nonlinear PDEs, Arterial Blood Flow, Magnetic Fields, PySR, Biofluid Mechanics, Analytical Approximation
